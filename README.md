@@ -1,1 +1,2 @@
-# Song-Lyrics-Generator
+# Song Lyrics Generator
+Sendo NLP um dos meus campos favorites de Machine Learning, este projeto é um dos que mais estava ansioso para aprender e fazer. O projeto com o intuito de explorar o uso de RNN(Redes Neurais Recorrentes), para criação de letras musicais. O dataset usado foi com músicas de 22 artistas diferentes. O dataset pode ser encontrado aqui: https://www.kaggle.com/deepshah16/song-lyrics-dataset. 
